@@ -1,0 +1,73 @@
+Fecha,canal_distribucion,chainStore,region_dsc,codeStore,tienda_dsc,categoria,mg,idProduct,upc,descripcion_producto,tipo_alerta,inventario_unidades,oportunidad_valor
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Bebidas,1545,07501058623096,GERBER 1AET Bebida Manzana LE 12x118mlMX,Inventario agotado,0,203.58684
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Chocolate Impulso,Carlos V,1527,07501058617736,CARLOS V Choc Libre Azucar 8(10x17g) MX,Inventario sin venta,159,420.89688
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Alim. Infantiles,Papillas 2A,1467,00000075003296,GERBER 2AET Postre Manzana 12x113g MX,Inventario sin venta,13,12.887931
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Especialidades,4249,07501058611246,NAN PREBIO Formula Infantil 12x900g MX,Inventario sin venta,3,186.05171
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Portion,Capsulas,4397,07613037504941,NESCAFE DLC GST LtMac 16Cap 3x183.2g MX,Inventario sin venta,39,1143.6713
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Purina,Beneful,4497,07501072216045,BENEFUL ADULT Salud Radiante Smn 10kgMX,Inventario sin venta,4,96.620605
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Portion,DG Starbucks,4389,07613036943390,SBUX CAPPUCCINO 12Caps 3x120g N1 MX,Inventario sin venta,22,501.0483
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Bebidas,1519,07501058611987,GERBER 2AET Beb Con Jugo Mz LE24x175mlMX,Inventario agotado,0,179.61328
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Cereales,3631,07501058653987,GERBER 1AET Avena Integral 6x200g MX,Inventario agotado,0,18.827587
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Nidal-Nido,Nidal,3190,07506475106146,NIDAL 2 Formula Infantil Lata 12x900g MX,Inventario agotado,0,480.41382
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Nan Supreme,4404,07613287067135,NAN 2 SUPREME 5HMO 6x800g MX,Inventario agotado,0,518.62067
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Bebidas,1542,07501058623034,GERBER 2AET BebDeBebeCiruelaMP24x175mlMX,Inventario agotado,0,32.120686
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Cremadores,Coffee Mate Liq,4810,07501058655219,COFFEE-MATE CARLOS V Liquido 12x530g MX,Ajuste de inventario,-2,1
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Especialidades,4375,07613033036989,NAN AR LR NWHSB230 12x400g N1 MX,Inventario sin venta,29,1617.9479
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Purina,Cat Chow,1684,07501777001151,CAT CHOW Adulto Pescado DP 6x1.5kg N1 MX,Inventario sin venta,11,65.460365
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Purina,Beneful,1623,07501072203908,BENEFUL MINIS Adt Orig Car 12x2kg MX,Inventario sin venta,15,278.80844
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Consumer Care,Boost,61314,07506475113076,BOOST HIGH PROTEIN Vanilla 12x330ml MX,Inventario sin venta,22,145.3444
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Purina,Cat Chow Pouches,1649,07501072212658,CAT CHOW Adulto Pollo 24x85g MX,Inventario agotado,0,67.26059
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Cereales,27607,07506475110587,GERBER 1AET Arroz 24x270g MX,Inventario agotado,0,14.965517
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Nan 4,4284,07501058634832,NAN 4 OPTIPRO HMO FI Lata 6x1.2kg N1MX,Inventario sin venta,10,502.56894
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Portion,Starbucks by Nespresso,4393,07613036961004,SBUX BLNDE ESPRS RST SRP PCC 12x53g B1,Inventario sin venta,23,370.30344
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Purina,Dog Chow,4455,07501072206725,DOG CHOW Puppy Med Large 6x4kg MX,Inventario sin venta,18,452.99197
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Purina,Felix,5565,07501072216090,FELIX Carne 12 Pack MP(12x85g) MX,Inventario sin venta,14,37.603413
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Consumer Care,Boost,61312,07506475113052,BOOST HIGH PROTEIN Strawberry 12x330mlMX,Inventario sin venta,48,60.93124
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Nan 1,2751,07501058623256,NAN 1 OPTIPRO FormulaInfantil 6x1.2kgMX,Inventario sin venta,10,700.9655
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Nan 3,2749,07501058623232,NAN 3 OPTIPRO FI HMO Lata 6x1.2kg N2 MX,Inventario sin venta,15,699.39655
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Purina,Cat Chow Pouches,5552,07501072212672,CAT CHOW Esterilizado Carne 24x85g MX,Inventario sin venta,50,75.56741
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Nan 2,21594,07506475105125,NAN 2 Optimal Pro FI Oco 6x1.5kg N1 MX,Inventario agotado,0,43.53382
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Bebidas,21572,07501058656353,GERBER2AETBebHidratanteSabCP6(4x175ml)MX,Inventario agotado,0,41.379307
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Purina,Felix Pouches,1668,07501072214478,FELIX Fantastic Deli con Atun 24x85g MX,Inventario agotado,0,136.38983
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Alim. Infantiles,Papillas 3A,77495,07506475115575,GERBER 3AET Yogurt Pera Plat 12x170g MX,Inventario sin venta,11,63.651722
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Natures Heart,Culinary Ingredients,4769,07862107784060,NH ALMENDRA REBANADA,Inventario sin venta,29,199.24138
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Nan Supreme,4404,07613287067135,NAN 2 SUPREME 5HMO 6x800g MX,Inventario sin venta,4,165.31035
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Alim. Infantiles,Cereales,4402,07613287014962,CERELAC BLProb Hierro+Cer+LecTrg12x1kgMX,Inventario sin venta,17,187.58618
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Especialidades,4330,07501058655493,NAN CONFORT Total2 HMO FI 12x900g N3 MX,Inventario sin venta,19,1726.138
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Especialidades,4331,07501058655776,NAN CONFORT Total 1 HMO FI Lata12x900gMX,Inventario sin venta,13,1031.2587
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Purina,One,4493,07501072215093,ONE Adulto M/G Carne 4x3.5kg MX,Inventario sin venta,4,154.53687
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Nidal-Nido,Nidal,3196,07506475106801,NIDAL 1 Formula Infantil Bolsa8x120gN1MX,Inventario agotado,0,67.034485
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Purina,One,4485,07501072214683,ONE Gato Adulto Carne 24x500g MX,Inventario agotado,0,22.115862
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Nan 3,4260,07501058623201,NAN 3 OPTIPRO FI HMO Lata 12x400g N1MX,Inventario agotado,0,213.51724
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Purina,Felix Pouches,4461,07501072209849,FELIX Salmon Salsa 24x85g MX,Inventario agotado,0,72.57182
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Especialidades,4329,07501058655455,NAN CONFORT Total3 HMO FI Lata 12x900gMX,Inventario sin venta,4,250.5
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Alim. Infantiles,Bebidas,1560,07501058637659,GERBER ETJNR Bebida Mango 20x200ml MX,Inventario sin venta,37,15.571551
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Especialidades,4935,07613033036941,NAN AR LR Formula Infantil 8x800g MX,Inventario sin venta,3,218
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Especialidades,4338,07501059278578,NAN Formula Infantil Prebio 24x400g MX,Inventario agotado,0,274.7586
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Nidal-Nido,Nidal,21608,07506475107174,NIDAL 2 Formula Infantil Lata6x1.5kgN1MX,Inventario agotado,0,1997.6676
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Alim. Infantiles,Cereales,4376,07613033150166,NESTUM Probioticos CI 8Cer 24x270g N2 XW,Inventario agotado,0,291.22006
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Nan 3,4260,07501058623201,NAN 3 OPTIPRO FI HMO Lata 12x400g N1MX,Inventario sin venta,22,220.6345
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Aguas,STM,1587,07501059235458,SANTA MARIA Agua MP 6x1L MX,Inventario sin venta,167,818.0608
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Nidal-Nido,Nidal,3191,07506475106153,NIDAL 1 Formula Infantil Lata 12x900g MX,Inventario sin venta,6,275.1931
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Chocolate Impulso,Carlos V,21600,07506475106191,CARLOSVChocSinAzrSemiamargoMP18(5x17g)MX,Inventario sin venta,30,298.1276
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Especialidades,4427,07501058625458,NAN FI Deslact WLReuteri MP6(2x400g)MX,Inventario sin venta,16,1770.7345
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Lacteos PPP,Carnation Polvo,2779,07501058626684,CARNATION Deslactosada 12x460g MX,Inventario sin venta,24,238.38744
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Cereales,53611,07506475110594,GERBER 1AET Arroz 6x200g MX,Inventario sin venta,7,22.751621
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Lac Culinarios,Condensada,4357,07506475104470,LA LECHERA LCA Bolsa 12x670g N1 MX,Ajuste de inventario,-3,1
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Purina,Beneful,21391,07501072215642,BENEFUL ADULT Triple Protn 10kg MX,Inventario sin venta,3,211.94194
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Especialidades,21571,07501058655479,NAN CONFORT Total3 HMO FI Lata 6x1.5kgMX,Inventario sin venta,8,742.86206
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Papillas 2A,4242,07501000912872,GERBER 2AET Sopa Pollo 12x113g MX,Inventario sin venta,50,15.086204
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Papillas 2A,1487,07501000904228,GERBER 2AET Pre VerdsConPllYArz24x113gMX,Inventario sin venta,14,27.062897
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Purina,Cat Chow,1659,07501072214041,CAT CHOW Adulto Carne DP 6x1.5kg N1 MX,Inventario sin venta,18,235.23703
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Purina,Dog Chow,3081,07501072202734,DOG CHOW Adt Med Large 6x4kg MX,Inventario sin venta,98,3134.1562
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Nido Fortificada,Nido Fortificada Deslac,2856,07501058638175,NIDO Fort Deslactosada 24x460g MX,Inventario sin venta,19,190.65517
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Formulas Inf,Nan Supreme,4403,07613287067111,NAN 1 SUPREME 5HMO 6x800g MX,Inventario sin venta,11,658.24133
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Nan 4,4278,07501058630650,NAN 4 OPTIPROHMOFormulaInfantil12x800gMX,Inventario agotado,0,372.41382
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Purina,Campeon,1616,07501072202338,CAMPEON Cachorro TodoTamañoCarne12x2kgMX,Inventario sin venta,149,2643.8687
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Especialidades,21571,07501058655479,NAN CONFORT Total3 HMO FI Lata 6x1.5kgMX,Inventario sin venta,4,35.58621
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Portion,Starbucks by Nespresso,4396,07613036961745,SBUX PIKE PLACE RST SRP PCC 12x53g B1,Inventario sin venta,16,434.77243
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Alim. Infantiles,Cereales,53621,07891000370261,GERBER TODDLER 28x25g MX,Inventario agotado,0,185.3793
+2024-04-01,null,Walmart,Valle de Mexico,WALMEX3846,SC BUENAVISTA,Lac Culinarios,Untables,49173,07506475112093,LA LECHERA Dulce De Leche Bolsa20x209gMX,Inventario agotado,0,9.308274
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Snacks,4381,07613036550680,GERBER Galleta Bebe 12(5x14g) XW,Inventario agotado,0,156.4138
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Alim. Infantiles,Snacks,4268,07501058626226,GERBERETJNRCrlaInfladoMoraAzulCnj6x42gMX,Inventario sin venta,10,41.27586
+2024-04-01,null,Walmart,Occidente,WALMEX3889,BA SAN JUAN DEL RIO,Formulas Inf,Especialidades,4427,07501058625458,NAN FI Deslact WLReuteri MP6(2x400g)MX,Inventario sin venta,8,663.2242
